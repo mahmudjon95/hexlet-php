@@ -3,5 +3,11 @@
     "description": "example",
     "require": {
         "tightenco/collect": "^9.52"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
     }
+
 }
