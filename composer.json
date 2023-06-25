@@ -1,5 +1,7 @@
 {
     "name": "hex/example",
     "description": "example",
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.52"
+    }
 }
